@@ -20,7 +20,7 @@ public class GameList {
         this.name = name;
     }
 
-    public Long getId() {
+      public Long getId() {
         return id;
     }
 
